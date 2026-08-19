@@ -3,8 +3,6 @@ Play a looping animation/video on a 1.3" I2C OLED (or 0.96") from an ESP32, usin
 
 Works with both common OLED controllers — SH1106 (most 1.3" I2C modules) and SSD1306 (most 0.96" modules) — switchable with one #define.
 
-📽️ Demo reel: [link to your Reel]
-
 ✨ Features
 🎬 Loops video frames (128×64, 1-bit) stored in VideoFrame.h — no SD card needed
 🖥️ Dual-controller support: SH1106 and SSD1306 via one #define
